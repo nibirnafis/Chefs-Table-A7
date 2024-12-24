@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "image": "https://i.ibb.co.com/jJRZJz5/res-1.jpg",
+      "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": ["Spaghetti", "Eggs", "Parmesan Cheese", "Pancetta", "Black Pepper"],
+      "preparing_time": 25,
+      "calories": "420 kcal"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Caesar Salad",
+      "image": "https://i.ibb.co.com/NTTyZfg/res-2.jpg",
+      "description": "A fresh salad with grilled chicken, romaine lettuce, croutons, and Caesar dressing.",
+      "ingredients": ["Romaine Lettuce", "Grilled Chicken", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
+      "preparing_time": 20,
+      "calories": "300 kcal"
+    },
+    {
+      "id": 3,
+      "name": "Classic Margherita Pizza",
+      "image": "https://i.ibb.co.com/7KRzkHG/res-3.jpg",
+      "description": "A simple yet flavorful pizza with tomato sauce, mozzarella, and fresh basil.",
+      "ingredients": ["Pizza Dough", "Tomato Sauce", "Mozzarella Cheese", "Fresh Basil", "Olive Oil"],
+      "preparing_time": 30,
+      "calories": "250 kcal per slice"
+    },
+    {
+      "id": 4,
+      "name": "Vegetable Stir-Fry",
+      "image": "https://i.ibb.co.com/qdbjmNG/res-4.jpg",
+      "description": "A colorful mix of vegetables sautéed in a savory stir-fry sauce.",
+      "ingredients": ["Broccoli", "Carrots", "Bell Peppers", "Soy Sauce", "Garlic", "Ginger"],
+      "preparing_time": 15,
+      "calories": "200 kcal"
+    },
+    {
+      "id": 5,
+      "name": "Beef Tacos",
+      "image": "https://i.ibb.co.com/cTBWgzK/res-5.jpg",
+      "description": "Crispy taco shells filled with seasoned beef, lettuce, cheese, and salsa.",
+      "ingredients": ["Ground Beef", "Taco Shells", "Lettuce", "Cheddar Cheese", "Salsa"],
+      "preparing_time": 20,
+      "calories": "350 kcal per taco"
+    },
+    {
+      "id": 6,
+      "name": "Blueberry Pancakes",
+      "image": "https://i.ibb.co.com/fFbccjs/res-6.jpg",
+      "description": "Fluffy pancakes bursting with fresh blueberries, perfect for breakfast.",
+      "ingredients": ["Flour", "Milk", "Eggs", "Blueberries", "Baking Powder", "Sugar"],
+      "preparing_time": 20,
+      "calories": "150 kcal per pancake"
+    }
+  ]
+  
