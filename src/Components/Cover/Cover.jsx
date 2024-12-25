@@ -11,7 +11,7 @@ const Cover = () => {
                     <button className="rounded-[50px] border-white py-[20px] px-[30px] font-semibold text-[20px] text-white">Our Feedback</button>
                 </div>
             </div>
-            <img src="src/assets/main_banner.png" alt="" />
+            <img src="https://i.ibb.co.com/KjbWSq6/main-banner.png" alt="" />
         </div>
     );
 };
